@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gamebot Tetris - Play Store Description</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f9f9f9;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #1a73e8;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .highlight {
+      color: #e91e63;
+      font-weight: bold;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .short-desc {
+      font-size: 1.2em;
+      font-weight: bold;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Short Description -->
+  <div class="section">
+    <div class="short-desc">Classic Tetris fun with modern twists – challenge yourself & beat high scores!</div>
+  </div>
+
+  <!-- Long Description English -->
+  <div class="section">
+    <h1>Gamebot Tetris</h1>
+    <p>Get ready for endless Tetris fun with <span class="highlight">Gamebot Tetris</span>! Stack blocks, clear lines, and race against time in this addictive puzzle challenge. Whether you’re a Tetris master or a casual player, Gamebot Tetris offers:</p>
+
+    <ul>
+      <li><span class="highlight">Classic gameplay</span> you love, with smooth modern graphics</li>
+      <li><span class="highlight">Multiple game modes</span> to keep you challenged</li>
+      <li><span class="highlight">Power-ups & bonuses</span> for higher scores</li>
+      <li><span class="highlight">Simple controls</span> perfect for any device</li>
+      <li><span class="highlight">Offline play</span> – no internet required!</li>
+    </ul>
+
+    <p>Compete with friends, beat your high score, and enjoy endless hours of block-stacking fun. <span class="highlight">Download Gamebot Tetris now and start your puzzle adventure!</span></p>
+  </div>
+
+  <!-- Long Description Indonesia -->
+  <div class="section">
+    <div class="short-desc">Tetris klasik dengan sentuhan modern – tantang diri dan pecahkan skor!</div>
+
+    <p>Siap untuk keseruan Tetris tanpa henti dengan <span class="highlight">Gamebot Tetris</span>! Susun balok, hilangkan garis, dan kejar waktu dalam tantangan puzzle yang adiktif. Baik Anda master Tetris atau pemain kasual, Gamebot Tetris menawarkan:</p>
+
+    <ul>
+      <li><span class="highlight">Gameplay klasik</span> yang kamu cintai, dengan grafis modern yang halus</li>
+      <li><span class="highlight">Banyak mode permainan</span> untuk tantangan tanpa henti</li>
+      <li><span class="highlight">Power-up & bonus</span> untuk skor lebih tinggi</li>
+      <li><span class="highlight">Kontrol mudah</span> cocok untuk semua perangkat</li>
+      <li><span class="highlight">Bisa dimainkan offline</span> – tanpa internet!</li>
+    </ul>
+
+    <p>Bersaing dengan teman, pecahkan skor tertinggi, dan nikmati keseruan menyusun balok tanpa henti. <span class="highlight">Download Gamebot Tetris sekarang dan mulai petualangan puzzlemu!</span></p>
+  </div>
+
+</body>
+</html>
